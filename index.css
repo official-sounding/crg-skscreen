@@ -1,0 +1,7 @@
+#OptionsDialog .selected {
+    background: #3f3;
+}
+
+#TeamTime table.TabTable>tbody>tr>td  {
+    text-align: center !important;
+}
